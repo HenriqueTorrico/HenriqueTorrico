@@ -1,4 +1,11 @@
-### Olá, me chamo Henrique Torrico
+### Olá, me chamo Henrique Torrico ✌
+
+<ul>
+  <li>✔ Tenho 17 anos</li>
+  <li>📜 Atualmente aprendendo PHP</li>
+  <li>❤ Apaixonado pela área de programação</li>
+  <li>👨‍💻 Busco sempre melhorar meu conhecimento atráves de desafios</li>
+</ul>
 
 <div>
   <a href="https://beacons.ai/HenriqueTorrico">
@@ -18,7 +25,6 @@
 ## 
  
 <div style="display: inline_block"><br>
-  
   <a href="https://www.linkedin.com/in/henriquetorrico" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
@@ -30,7 +36,10 @@
   <a href="https://www.facebook.com/henrique.torrico" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
   </a>
-
+  
+  <a href="mailto:henriquetorrico12@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
 </div>
 
 ![Snake animation](https://github.com/HenriqueTorrico/HenriqueTorrico/blob/output/github-contribution-grid-snake.svg)
