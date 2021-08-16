@@ -13,7 +13,7 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueTorrico&layout=compact&langs_count=16&theme=dark" />
 </div>
   
-<div style="text-align: center;"><br>
+<div><br>
   <img align="center" alt="Torrico-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="Torrico-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" />
   <img align="center" alt="Torrico-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" />
