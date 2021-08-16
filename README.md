@@ -1,6 +1,6 @@
 ### Olá, me chamo Henrique Torrico ✌
 
-<ul>
+<ul style="text-align: center;">
   <li>✔ Tenho 17 anos</li>
   <li>📜 Atualmente aprendendo PHP</li>
   <li>❤ Apaixonado pela área de programação</li>
