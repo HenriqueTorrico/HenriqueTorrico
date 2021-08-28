@@ -1,19 +1,45 @@
-### Olá, me chamo Henrique Torrico ✌
 
-<ul style="text-align: center;">
-  <li>✔ Tenho 17 anos</li>
-  <li>📜 Atualmente aprendendo PHP</li>
-  <li>❤ Apaixonado pela área de programação</li>
-  <li>👨‍💻 Busco sempre melhorar meu conhecimento atráves de desafios</li>
-</ul>
+<div> 
+  <div align="center">
+    <h1>Mensagem</h1>
+  </div>
+  
+  
+    var nome = "Henrique Torrico Silva";
+    var data = new Date();
+    var hora = data.getHours();
+    var mensagem = "";
 
-<div>
+    function hello(){
+        if(hora >= 6 && hora <= 12) {
+            mensagem = "Bom dia"; 
+            return mensagem;
+        }else if(hora > 12 && hora <= 18) {
+            mensagem = "Boa tarde"; 
+            return mensagem;
+        }else if(hora > 18) {
+            mensagem = "Boa noite"; 
+            return mensagem;
+        }
+    }
+  
+    console.log(hello() + ", me chamo " + nome);
+</div>
+
+<div align="center">
+  <h1>Sobre</h1>
+  <p>Atualmente tenho 17 anos. Busco constantemente melhorar meus conhecimentos atravéz de desafios e realizações de projetos. Acabei recentemente um curso técnico com duração de 1 ano e meio. Tenho como principal objetivo me tornar um programador front-end utilizando o framework Vue.</p><br>
+</div>
+
+<div align="center">
+  <h1>Status</h1>
   <a href="https://beacons.ai/HenriqueTorrico">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueTorrico&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueTorrico&layout=compact&langs_count=16&theme=dark" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueTorrico&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueTorrico&layout=compact&langs_count=16&theme=radical" />
 </div>
   
-<div><br>
+<div align="center"><br>
+  <h1>Hard Skills</h1>
   <img align="center" alt="Torrico-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="Torrico-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" />
   <img align="center" alt="Torrico-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" />
@@ -22,23 +48,24 @@
   <img align="center" alt="Torrico-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain.svg" />
 </div>
   
-## 
+<br>
  
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
+  <h1>Redes Sociais</h1>
   <a href="https://www.linkedin.com/in/henriquetorrico" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Linkedin-rgba(43, 43, 43, 1)?style=for-the-badge&logo=linkedin&logoColor=rgba(167, 104, 232, 1)" target="_blank">
   </a>
   
   <a href="https://www.instagram.com/henriquetorrico" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram Pessoal-rgba(43, 43, 43, 1)?style=for-the-badge&logo=instagram&logoColor=rgba(167, 104, 232, 1)" target="_blank">
   </a>
-  
-  <a href="https://www.facebook.com/henrique.torrico" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
-  </a>
-  
+    
   <a href="mailto:henriquetorrico12@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-rgba(43, 43, 43, 1)?style=for-the-badge&logo=gmail&logoColor=rgba(167, 104, 232, 1)" target="_blank">
+  </a>
+  
+  <a href="https://www.facebook.com/henrique.torrico/">
+    <img src="https://img.shields.io/badge/-Facebook-rgba(43, 43, 43, 1)?style=for-the-badge&logo=facebook&logoColor=rgba(167, 104, 232, 1)" target="_blank">
   </a>
 </div>
 
