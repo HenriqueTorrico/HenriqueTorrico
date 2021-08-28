@@ -28,7 +28,7 @@
 
 <div align="center">
   <h1>Sobre</h1>
-  <p>Atualmente tenho 17 anos. Busco constantemente melhorar meus conhecimentos atravéz de desafios e realizações de projetos. Acabei recentemente um curso técnico com duração de 1 ano e meio. Tenho como principal objetivo me tornar um programador front-end utilizando o framework Vue.</p><br>
+  <p>Atualmente tenho 17 anos. Busco constantemente melhorar meus conhecimentos atravéz de desafios e realizações de projetos. Acabei recentemente um curso técnico de desenvolvimento de sistemas com duração de 1 ano e meio. Tenho como principal objetivo me tornar um programador front-end utilizando o framework Vue.</p><br>
 </div>
 
 <div align="center">
