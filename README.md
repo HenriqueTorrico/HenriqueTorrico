@@ -1,29 +1,6 @@
-
-<div> 
-  <div align="center">
-    <h1>Mensagem / Desafio</h1>
-  </div>
-  
-  
-    var nome = "Henrique Torrico Silva";
-    var data = new Date();
-    var hora = data.getHours();
-    var mensagem = "";
-
-    function hello(){
-        if(hora >= 6 && hora <= 12) {
-            mensagem = "Bom dia"; 
-            return mensagem;
-        }else if(hora > 12 && hora <= 18) {
-            mensagem = "Boa tarde"; 
-            return mensagem;
-        }else if(hora > 18) {
-            mensagem = "Boa noite"; 
-            return mensagem;
-        }
-    }
-  
-    console.log(hello() + ", me chamo " + nome);
+<div>
+  <h1>Apresentação</h1>
+  <p>Olá, me chamo Henrique Torrico Silva<p>
 </div>
 
 <div align="center">
