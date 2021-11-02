@@ -1,4 +1,4 @@
-<div>
+<div align="center">
   <h1>Apresentação</h1>
   <p>Olá, me chamo Henrique Torrico Silva<p>
 </div>
