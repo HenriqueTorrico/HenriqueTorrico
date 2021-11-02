@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Apresentação</h1>
-  <p>Olá, me chamo Henrique Torrico Silva<p>
+  <h3>Olá, me chamo Henrique Torrico</h2>
 </div>
 
 <div align="center">
