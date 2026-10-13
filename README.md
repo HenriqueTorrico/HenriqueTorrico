@@ -1,51 +1,61 @@
-<div align="center">
-  <h1>Apresentação</h1>
-  <h3>Olá, me chamo Henrique Torrico</h2>
-</div>
-
-<br>
 
 <div align="center">
-  <h1>Sobre</h1>
-  <p>Atualmente tenho 17 anos. Busco constantemente melhorar meus conhecimentos atravéz de desafios e realizações de projetos. Acabei recentemente um curso técnico de desenvolvimento de sistemas com duração de 1 ano e meio. Tenho como principal objetivo me tornar um programador front-end utilizando o framework Vue.</p><br>
+  <h1>Olá, eu sou Henrique Torrico 👋</h1>
+  <h3>Desenvolvedor Full Stack</h3>
+  <p>PHP • Laravel • JavaScript • Vue.js • PostgreSQL</p>
 </div>
 
+---
+
+### Sobre mim
+
+Sou Desenvolvedor Full Stack, atuando desde 2022 no desenvolvimento e manutenção de sistemas web corporativos.
+
+No meu trabalho, participo do desenvolvimento de funcionalidades completas, desde a modelagem do banco de dados até a implementação do backend e das interfaces. Também tenho experiência com regras de negócio, integrações com APIs, refatoração de código e otimização de consultas SQL.
+
+Além da experiência profissional, desenvolvo o **LeadUpCRM**, um CRM para corretores de imóveis, utilizando Laravel, Vue.js e MySQL.
+
+Atualmente, estou concluindo a graduação em **Análise e Desenvolvimento de Sistemas** na Universidade Cruzeiro do Sul.
+
+---
+
+### Tecnologias
+
 <div align="center">
-  <h1>Status</h1>
-  <a href="https://beacons.ai/HenriqueTorrico">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueTorrico&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueTorrico&layout=compact&langs_count=16&theme=radical" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" alt="PHP" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="40" alt="Laravel" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git" />
 </div>
-  
-<div align="center"><br>
-  <h1>Hard Skills</h1>
-  <img align="center" alt="Torrico-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="Torrico-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" />
-  <img align="center" alt="Torrico-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" />
-  <img align="center" alt="Torrico-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" />
-  <img align="center" alt="Torrico-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" />
-  <img align="center" alt="Torrico-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain.svg" />
+
+---
+
+### Estatísticas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueTorrico&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais utilizadas" />
 </div>
-  
-<br>
- 
-<div style="display: inline_block" align="center"><br>
-  <h1>Redes Sociais</h1>
-  <a href="https://www.linkedin.com/in/henriquetorrico" target="_blank">
-    <img src="https://img.shields.io/badge/-Linkedin-rgba(43, 43, 43, 1)?style=for-the-badge&logo=linkedin&logoColor=rgba(167, 104, 232, 1)" target="_blank">
+
+---
+
+### Contato
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/henriquetorrico">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  
-  <a href="https://www.instagram.com/henriquetorrico" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram Pessoal-rgba(43, 43, 43, 1)?style=for-the-badge&logo=instagram&logoColor=rgba(167, 104, 232, 1)" target="_blank">
-  </a>
-    
   <a href="mailto:henriquetorrico12@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-rgba(43, 43, 43, 1)?style=for-the-badge&logo=gmail&logoColor=rgba(167, 104, 232, 1)" target="_blank">
-  </a>
-  
-  <a href="https://www.facebook.com/henrique.torrico/">
-    <img src="https://img.shields.io/badge/-Facebook-rgba(43, 43, 43, 1)?style=for-the-badge&logo=facebook&logoColor=rgba(167, 104, 232, 1)" target="_blank">
+    <img src="https://img.shields.io/badge/Email-444444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
-
-![Snake animation](https://github.com/HenriqueTorrico/HenriqueTorrico/blob/output/github-contribution-grid-snake.svg)
